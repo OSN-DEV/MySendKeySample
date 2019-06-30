@@ -1,0 +1,15 @@
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample.csprojAssemblyReference.cache
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MainWindow.g.cs
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\App.g.cs
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample_MarkupCompile.cache
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample_MarkupCompile.lref
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\bin\Debug\MySendKeySample.exe.config
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\bin\Debug\MySendKeySample.exe
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\bin\Debug\MySendKeySample.pdb
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MainWindow.baml
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample.g.resources
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample.Properties.Resources.resources
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample.csproj.GenerateResource.cache
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample.csproj.CoreCompileInputs.cache
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample.exe
+F:\UserData\MyApps\DotNet\MySimpleLauncher\src\MySendKeySample\obj\Debug\MySendKeySample.pdb
